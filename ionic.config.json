@@ -1,0 +1,7 @@
+{
+  "name": "modaltest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
